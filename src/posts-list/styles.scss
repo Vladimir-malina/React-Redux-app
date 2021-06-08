@@ -1,0 +1,17 @@
+.add-post {
+  color: blue;
+  padding: 10px 0;
+  cursor: pointer;
+  display: inline-block;
+  width: 100%;
+  border-bottom: 1px solid blue;
+  margin-top: 10px;
+}
+
+.add-post:visited {
+  color: blue;
+}
+
+.add-post__header {
+  margin-bottom: 20px;
+}

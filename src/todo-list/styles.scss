@@ -1,0 +1,11 @@
+.todo {
+  border: solid gray 2px;
+  cursor: pointer;
+}
+
+.todo_done {
+  cursor: pointer;
+  border: solid gray 2px;
+  background-color: rgb(132, 192, 76);
+  text-decoration: line-through;
+}
